@@ -95,7 +95,7 @@ std::cout << "Number of Cores: and Threads" << std::endl;
 
 int p = 0;
 while(p < cores){
-threa
+mutex
 p = p + 1;
 }
 
